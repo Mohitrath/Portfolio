@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="440" viewBox="0 0 500 440" fill="none">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="500" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#191c25"/><stop offset="1" stop-color="#090b10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(400 30) rotate(130) scale(310 290)" gradientUnits="userSpaceOnUse"><stop stop-color="#67e8f9" stop-opacity=".22"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></radialGradient></defs>
+ <rect width="500" height="440" rx="18" fill="url(#bg)"/><rect width="500" height="440" rx="18" fill="url(#glow)"/>
+ <path d="M0 76H500 M0 420H500" stroke="#ffffff" stroke-opacity=".06"/><text x="28" y="35" font-family="Arial,sans-serif" font-size="10" letter-spacing="2.2" fill="#67e8f9">PRODUCT WORKSPACE</text><circle cx="466" cy="31" r="3" fill="#67e8f9"/><text x="28" y="70" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="-.7" fill="#f4f4f6">Enterprise Workspace</text>
+ 
+ <rect x="34" y="110" width="432" height="292" rx="12" fill="#151820" stroke="#343843"/>
+ <rect x="34" y="110" width="432" height="38" rx="12" fill="#1b2029"/><rect x="49" y="124" width="105" height="8" rx="4" fill="#67e8f9"/><rect x="358" y="120" width="94" height="18" rx="9" fill="#2b303a"/>
+ <rect x="50" y="164" width="400" height="60" rx="8" fill="#202531"/><circle cx="77" cy="194" r="12" fill="#67e8f9" opacity=".22"/><path d="M71 194 l4 4 8 -9" stroke="#67e8f9" fill="none" stroke-width="2"/><rect x="99" y="182" width="132" height="6" rx="3" fill="#d8dce5"/><rect x="99" y="196" width="207" height="4" rx="2" fill="#596272"/><rect x="370" y="183" width="62" height="22" rx="11" fill="#67e8f9"/>
+ <rect x="50" y="236" width="190" height="150" rx="8" fill="#202531"/><text x="65" y="256" font-size="8" fill="#9ba4b4">PROJECT ACTIVITY</text>
+ <rect x="65" y="272" width="145" height="6" rx="3" fill="#596272"/><rect x="65" y="286" width="115" height="6" rx="3" fill="#596272"/><rect x="65" y="300" width="132" height="6" rx="3" fill="#596272"/>
+ <rect x="254" y="236" width="196" height="150" rx="8" fill="#202531"/><text x="269" y="256" font-size="8" fill="#9ba4b4">TEAM PROGRESS</text>
+ <circle cx="300" cy="310" r="30" fill="none" stroke="#353d4a" stroke-width="8"/><circle cx="300" cy="310" r="30" fill="none" stroke="#67e8f9" stroke-width="8" stroke-dasharray="140 190" transform="rotate(-90 300 310)"/><text x="300" y="314" font-size="12" text-anchor="middle" font-weight="700" fill="#f4f4f6">74%</text>
+ <rect x="345" y="288" width="82" height="5" rx="2" fill="#b6becb"/><rect x="345" y="302" width="64" height="4" rx="2" fill="#596272"/><rect x="345" y="314" width="74" height="4" rx="2" fill="#596272"/>
+ <text x="28" y="427" font-family="monospace" font-size="8" letter-spacing="1.6" fill="#7f8795">MOHIT KUMAR  /  PROJECT SHOWCASE</text></svg>
