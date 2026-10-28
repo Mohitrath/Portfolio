@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="440" viewBox="0 0 500 440" fill="none">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="500" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#191c25"/><stop offset="1" stop-color="#090b10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(400 30) rotate(130) scale(310 290)" gradientUnits="userSpaceOnUse"><stop stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient></defs>
+ <rect width="500" height="440" rx="18" fill="url(#bg)"/><rect width="500" height="440" rx="18" fill="url(#glow)"/>
+ <path d="M0 76H500 M0 420H500" stroke="#ffffff" stroke-opacity=".06"/><text x="28" y="35" font-family="Arial,sans-serif" font-size="10" letter-spacing="2.2" fill="#a78bfa">ENTERPRISE PLATFORM</text><circle cx="466" cy="31" r="3" fill="#a78bfa"/><text x="28" y="70" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="-.7" fill="#f4f4f6">Accredian Enterprise</text>
+ 
+ <rect x="34" y="110" width="432" height="292" rx="12" fill="#151820" stroke="#343843"/>
+ <rect x="34" y="110" width="432" height="36" rx="12" fill="#1b2029"/><circle cx="51" cy="128" r="4" fill="#fb7185"/><circle cx="64" cy="128" r="4" fill="#fbbf24"/><circle cx="77" cy="128" r="4" fill="#86efac"/>
+ <rect x="48" y="159" width="92" height="228" rx="7" fill="#202531"/>
+ <rect x="60" y="176" width="55" height="5" rx="2" fill="#a78bfa"/><rect x="60" y="194" width="63" height="4" rx="2" fill="#4b5361"/><rect x="60" y="211" width="50" height="4" rx="2" fill="#4b5361"/><rect x="60" y="228" width="59" height="4" rx="2" fill="#4b5361"/>
+ <rect x="154" y="159" width="145" height="72" rx="8" fill="#202531"/><text x="168" y="180" font-size="8" fill="#9ba4b4">OVERVIEW</text><text x="168" y="207" font-size="22" font-weight="700" fill="#f4f4f6">24.8k</text><text x="168" y="220" font-size="8" fill="#a78bfa">↑ 12.6% this month</text>
+ <rect x="311" y="159" width="141" height="72" rx="8" fill="#202531"/><text x="325" y="180" font-size="8" fill="#9ba4b4">ACTIVE USERS</text><text x="325" y="207" font-size="22" font-weight="700" fill="#f4f4f6">8,420</text><text x="325" y="220" font-size="8" fill="#a78bfa">+8.2% growth</text>
+ <rect x="154" y="243" width="298" height="144" rx="8" fill="#202531"/><text x="168" y="263" font-size="8" fill="#9ba4b4">PERFORMANCE</text>
+ <path d="M169 350 L199 330 L225 337 L251 302 L279 318 L307 282 L334 295 L362 270 L390 286 L436 255" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M169 350 L199 330 L225 337 L251 302 L279 318 L307 282 L334 295 L362 270 L390 286 L436 255 L436 369 L169 369Z" fill="#a78bfa" opacity=".08"/>
+ <text x="28" y="427" font-family="monospace" font-size="8" letter-spacing="1.6" fill="#7f8795">MOHIT KUMAR  /  PROJECT SHOWCASE</text></svg>
