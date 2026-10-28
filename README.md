@@ -94,6 +94,12 @@ I enjoy taking ideas from concept to implementation—with a focus on clear inte
 - **Google Gemini QuizOff 2026** — Certificate of Participation, issued through CampusCrew.
 - **Campus Ambassador, The Polaris Fellowship** — Welcome/appointment letter dated 25 September 2026; representing the fellowship at IIIT Allahabad and supporting student community-building.
 
+- **AlgoUniversity Technology Fellowship (ATF) 2025** — Qualified Stage 1, ranked in the top 8% nationwide among 250,000 participants, and advanced to Stage 2.
+- **micro1 Frontier Engineering Challenge 2026** — Certificate of Participation dated 10 September 2026.
+- **Dakshana NCST/JDST Volunteer** — Certificate of Appreciation for volunteering at the Dakshana Selection Test 2026 at JNV Jhansi, Uttar Pradesh.
+- **KSHITIJ, IIT Kharagpur** — Certificate of Excellence for contributions to the Student Ambassador Program, dated 19 March 2026.
+- **Innovation Hacks** — Selected as a Full Stack Development Intern for a one-month remote internship; offer letter lists React, Next.js, Node.js, Python, MongoDB, and MySQL. This is an offer letter, not a completion certificate.
+
 ## ✦ Tech toolkit
 
 <div align="center">
