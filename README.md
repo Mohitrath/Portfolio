@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Mohitrath/Portfolio/main/Mohit.jpg" alt="Mohit Kumar" width="180">
+<img src="https://raw.githubusercontent.com/Mohitrath/Portfolio/main/Mohit-casual.jpg" alt="Mohit Kumar" width="180">
 
 **Mohit Kumar** · IIIT Allahabad
 
@@ -135,7 +135,8 @@ The production site is linked above. If a new commit is not deployed automatical
 ```text
 Portfolio/
 ├── index.html    # Portfolio interface, styles, and interactions
-├── Mohit.jpg     # Portfolio portrait
+├── Mohit.jpg          # Original formal portrait
+├── Mohit-casual.jpg    # Alternate portrait used in the hero
 └── README.md     # Project documentation
 ```
 
