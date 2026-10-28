@@ -1,15 +1,15 @@
 # Mohit Kumar — Premium Portfolio
 
-A responsive, dark editorial-style personal portfolio for Mohit Kumar, an Information Technology student at IIIT Allahabad.
+A responsive, dark editorial-style portfolio for Mohit Kumar, an Information Technology student at IIIT Allahabad.
 
 ## Features
 
 - Responsive layout for mobile, tablet, and desktop
 - Interactive CSS 3D orb with pointer-based rotation
-- Scroll-reveal animations using the Intersection Observer API
-- Selected projects, skills, experience, and contact sections
-- Reduced-motion accessibility support
-- Lightweight static website — no build step required
+- Scroll-reveal animations and reduced-motion accessibility support
+- Portfolio section linking to all 17 project repositories currently listed on the GitHub profile
+- Sections for background, skills, experience, and contact
+- Static HTML/CSS/JavaScript — no build step required
 
 ## Run locally
 
@@ -23,8 +23,8 @@ Then visit http://localhost:8000.
 
 ## Deploy
 
-This is a static site. Import the repository into Vercel or GitHub Pages; no build command is required.
+This is a static site. Import the repository into Vercel or enable GitHub Pages. No build command is required; use the repository root as the root/output location for static hosting.
 
-## Personalization
+## Project links
 
-Project cards currently point to the GitHub profile because exact repository URLs were not provided. Replace these links with each project's repository URL when available.
+Each project card links directly to its corresponding GitHub repository. The project summaries are concise descriptions based on repository names and known project context; update them if you want more exact feature descriptions.
