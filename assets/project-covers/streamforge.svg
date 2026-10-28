@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="440" viewBox="0 0 500 440" fill="none">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="500" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#191c25"/><stop offset="1" stop-color="#090b10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(400 30) rotate(130) scale(310 290)" gradientUnits="userSpaceOnUse"><stop stop-color="#d5ff64" stop-opacity=".22"/><stop offset="1" stop-color="#d5ff64" stop-opacity="0"/></radialGradient></defs>
+ <rect width="500" height="440" rx="18" fill="url(#bg)"/><rect width="500" height="440" rx="18" fill="url(#glow)"/>
+ <path d="M0 76H500 M0 420H500" stroke="#ffffff" stroke-opacity=".06"/><text x="28" y="35" font-family="Arial,sans-serif" font-size="10" letter-spacing="2.2" fill="#d5ff64">LIVE MEDIA STUDIO</text><circle cx="466" cy="31" r="3" fill="#d5ff64"/><text x="28" y="70" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="-.7" fill="#f4f4f6">StreamForge</text>
+ 
+ <rect x="34" y="110" width="432" height="226" rx="12" fill="#151820" stroke="#343843"/>
+ <rect x="48" y="124" width="404" height="170" rx="8" fill="#202531"/>
+ <circle cx="250" cy="209" r="39" fill="#d5ff64" opacity=".13"/><circle cx="250" cy="209" r="27" fill="#d5ff64"/>
+ <path d="M242 194 L242 224 L266 209 Z" fill="#101318"/>
+ <rect x="49" y="307" width="295" height="5" rx="2.5" fill="#353a46"/><rect x="49" y="307" width="188" height="5" rx="2.5" fill="#d5ff64"/>
+ <circle cx="365" cy="309" r="7" fill="#d5ff64"/><rect x="389" y="301" width="52" height="17" rx="8" fill="#292e38"/>
+ <rect x="34" y="350" width="432" height="52" rx="10" fill="#151820" stroke="#343843"/>
+ <circle cx="56" cy="376" r="6" fill="#d5ff64"/><rect x="72" y="370" width="120" height="6" rx="3" fill="#aeb5c2"/><rect x="72" y="382" width="76" height="4" rx="2" fill="#535b68"/>
+ <rect x="360" y="365" width="90" height="22" rx="11" fill="#d5ff64"/><text x="405" y="379" text-anchor="middle" font-size="8" font-weight="700" fill="#101318">LIVE NOW</text>
+ <text x="28" y="427" font-family="monospace" font-size="8" letter-spacing="1.6" fill="#7f8795">MOHIT KUMAR  /  PROJECT SHOWCASE</text></svg>
