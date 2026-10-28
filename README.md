@@ -78,6 +78,22 @@ I enjoy taking ideas from concept to implementation—with a focus on clear inte
 
 *Project descriptions are short summaries; visit each repository for its implementation details.*
 
+
+## ✦ Education
+
+| Institution | Program / Level | Years | Location |
+|---|---|---|---|
+| **Indian Institute of Information Technology, Allahabad** | B.Tech, Information Technology | 2024–Present | Prayagraj, Uttar Pradesh |
+| **Jawahar Navodaya Vidyalaya, Bagaluru** | Senior Secondary | 2022–2024 | Bengaluru Urban, Karnataka |
+| **Jawahar Navodaya Vidyalaya, Rath** | Secondary School | 2017–2022 | Hamirpur, Uttar Pradesh |
+
+## ✦ Certificates & recognition
+
+- **Adobe University Hackathon** — Certificate of Participation, 9 August 2026.
+- **AWS ML Engineer Associate Curriculum Overview** — AWS Training & Certification completion certificate, 6 September 2026.
+- **Google Gemini QuizOff 2026** — Certificate of Participation, issued through CampusCrew.
+- **Campus Ambassador, The Polaris Fellowship** — Welcome/appointment letter dated 25 September 2026; representing the fellowship at IIIT Allahabad and supporting student community-building.
+
 ## ✦ Tech toolkit
 
 <div align="center">
